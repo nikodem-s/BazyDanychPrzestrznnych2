@@ -1,0 +1,11 @@
+14.0
+9
+1       SQLINT              1       4       ""   1     client_id                                    ""
+2       SQLINT              1       4       ""   2     ProductKey                                   ""
+3       SQLCHAR             2       3       ""   3     CurrencyAlternateKey                         Polish_CI_AS
+4       SQLCHAR             2       40      ""   4     FIRST_NAME                                   Polish_CI_AS
+5       SQLCHAR             2       40      ""   5     LAST_NAME                                    Polish_CI_AS
+6       SQLCHAR             2       20      ""   6     OrderDateKey                                 Polish_CI_AS
+7       SQLINT              1       4       ""   7     OrderQuantity                                ""
+8       SQLNUMERIC          1       19      ""   8     UnitPrice                                    ""
+9       SQLCHAR             2       10      ""   9     SecretCode                                   Polish_CI_AS

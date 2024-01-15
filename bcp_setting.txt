@@ -1,0 +1,2 @@
+bcp BCP.dbo.Customers format nul -T -n -f format.fmt
+bcp BCP.dbo.Customers IN "D:\mgr-sem2\BDP2\zaj10\PROCESSED\CUSTOMERS_401529.csv" -f format.fmt -S DESKTOP-HOQ24S6 -T
